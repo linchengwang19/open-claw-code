@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "skills": {
+    "clawsec": {
+      "version": "1.0.0",
+      "installedAt": 1772855389231
+    },
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1772855394231
+    },
+    "multi-search-engine": {
+      "version": "2.0.1",
+      "installedAt": 1772855398825
+    },
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1772855403535
+    },
+    "proactive-agent": {
+      "version": "3.1.0",
+      "installedAt": 1772855408028
+    },
+    "find-skills": {
+      "version": "0.1.0",
+      "installedAt": 1772855419558
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1772855423585
+    }
+  }
+}
